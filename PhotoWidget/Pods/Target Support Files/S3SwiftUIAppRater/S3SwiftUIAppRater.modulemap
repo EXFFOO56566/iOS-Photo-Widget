@@ -1,0 +1,6 @@
+framework module S3SwiftUIAppRater {
+  umbrella header "S3SwiftUIAppRater-umbrella.h"
+
+  export *
+  module * { export * }
+}
